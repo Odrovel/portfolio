@@ -1,0 +1,26 @@
+footer {
+    background-color: #4b2d16; 
+    color: #fef6e4;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  footer p {
+    margin: 10px 0;
+  }
+  
+  footer a {
+    color: #fef6e4; 
+    font-size: 30px;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  footer a:hover {
+    transform: scale(1.2); 
+    box-shadow: 0 0 15px #f5e1c4; 
+  }
+  
+  footer p:hover {
+    font-style: italic;
+  }
